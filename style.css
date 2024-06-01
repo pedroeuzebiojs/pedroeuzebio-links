@@ -12,6 +12,11 @@ header img {
 }
 
 header p {
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+  line-height: 24px;
+
   color: hsl(217.2 91.2% 59.8%);
+
   margin-top: 8px;
 }
