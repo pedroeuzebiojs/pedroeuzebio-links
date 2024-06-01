@@ -2,6 +2,11 @@ body {
   background: hsl(222.2 84% 4.9%);
 }
 
+header {
+  padding: 80px 24px 0;
+  text-align: center;
+}
+
 header img {
   width: 112px;
 }
