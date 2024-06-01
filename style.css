@@ -10,3 +10,8 @@ header {
 header img {
   width: 112px;
 }
+
+header p {
+  color: hsl(217.2 91.2% 59.8%);
+  margin-top: 8px;
+}
