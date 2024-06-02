@@ -58,8 +58,28 @@ header p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
   gap: 16px;
 
   padding: 24px;
+}
+
+#links .link {
+  text-decoration: none;
+  line-height: 24px;
+
+  font-family: "Inter", sans-serif;
+  font-weight: 500;
+
+  color: hsl(210 40% 98%);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  background: hsl(222.2 47.4% 11.2%);
+  padding: 16px 24px;
+  border: 1px solid hsl(217.2 32.6% 17.5%);
+  border-radius: 8px;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
 }
