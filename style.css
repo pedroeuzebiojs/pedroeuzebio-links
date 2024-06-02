@@ -36,3 +36,11 @@ header p {
 
   margin-top: 8px;
 }
+
+#biography {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+}
