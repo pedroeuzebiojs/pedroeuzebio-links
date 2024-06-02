@@ -10,11 +10,19 @@
   font-size: 62.5%;
   --background: hsl(222.2 84% 4.9%);
   --foreground: hsl(210 40% 98%);
+  --primary: hsl(217.2 91.2% 59.8%);
+  --primary-foreground: hsl(222.2 47.4% 11.2%);
+  --secondary: hsl(217.2 32.6% 17.5%);
+  --muted-foreground: hsl(215 20.2% 65.1%);
 }
 
 .light {
   --background: hsl(0 0% 100%);
   --foreground: hsl(222.2 84% 4.9%);
+  --primary: hsl(221.2 83.2% 53.3%);
+  --primary-foreground: hsl(210 40% 96.1%);
+  --secondary: hsl(210 40% 98%);
+  --muted-foreground: hsl(215.4 16.3% 46.9%);
 }
 
 body * {
@@ -44,10 +52,10 @@ body {
   width: 3.2rem;
   height: 3.2rem;
 
-  border: 1px solid hsl(222.2 47.4% 11.2%);
+  border: 1px solid var(--primary-foreground);
   border-radius: 50%;
 
-  background-color: hsl(217.2 32.6% 17.5%);
+  background-color: var(--secondary);
 
   color: var(--foreground);
 
@@ -61,11 +69,16 @@ body {
   transform: translateY(-50%);
 }
 
+.light #switch button {
+  right: 0;
+  left: initial;
+}
+
 #switch span {
   display: block;
   width: 6.4rem;
   height: 2.4rem;
-  background-color: hsl(215 20.2% 65.1%);
+  background-color: var(--muted-foreground);
   border: 1px solid var(--foreground);
   border-radius: 999.9rem;
 }
@@ -83,7 +96,7 @@ header p {
   font-weight: 600;
   line-height: 2.4rem;
 
-  color: hsl(217.2 91.2% 59.8%);
+  color: var(--primary);
 
   margin: 0.8rem 0;
 }
@@ -125,9 +138,9 @@ header p {
   justify-content: center;
   align-items: center;
 
-  background: hsl(217.2 32.6% 17.5%);
+  background: var(--secondary);
   padding: 1.6rem 2.4rem;
-  border: 1px solid hsl(222.2 47.4% 11.2%);
+  border: 1px solid var(--primary-foreground);
   border-radius: 0.8rem;
   backdrop-filter: blur(0.4rem);
   -webkit-backdrop-filter: blur(0.4rem);
@@ -136,7 +149,7 @@ header p {
 }
 
 #links .link:hover {
-  background: hsl(222.2 47.4% 11.2%);
+  background: var(--primary-foreground);
   border: 1.5px solid var(--foreground);
 }
 
