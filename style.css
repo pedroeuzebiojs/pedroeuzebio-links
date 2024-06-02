@@ -28,6 +28,8 @@
 body * {
   font-family: "Inter", sans-serif;
   font-size: 1.6rem;
+
+  color: var(--foreground);
 }
 
 body {
@@ -56,8 +58,6 @@ body {
   border-radius: 50%;
 
   background-color: var(--secondary);
-
-  color: var(--foreground);
 
   display: flex;
   justify-content: center;
@@ -111,8 +111,6 @@ header p {
 #biography small {
   font-size: 1.4rem;
   line-height: 2.4rem;
-
-  color: var(--foreground);
 }
 
 #links {
@@ -131,8 +129,6 @@ header p {
   line-height: 2.4rem;
 
   font-weight: 500;
-
-  color: var(--foreground);
 
   display: flex;
   justify-content: center;
@@ -161,8 +157,6 @@ footer {
 
   font-size: 1.4rem;
   font-weight: 300;
-
-  color: var(--foreground);
 }
 
 footer a {
@@ -170,6 +164,4 @@ footer a {
   font-weight: 300;
 
   line-height: 2.4rem;
-
-  color: var(--foreground);
 }
