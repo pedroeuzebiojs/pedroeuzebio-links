@@ -42,6 +42,15 @@ body {
   align-items: center;
 }
 
+#switch span {
+  display: block;
+  width: 64px;
+  height: 24px;
+  background-color: hsl(215 20.2% 65.1%);
+  border: 1px solid hsl(210 40% 98%);
+  border-radius: 9999px;
+}
+
 header {
   padding: 2.4rem 0;
   text-align: center;
