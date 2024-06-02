@@ -18,6 +18,12 @@ body {
   background: hsl(222.2 84% 4.9%);
 }
 
+#app {
+  width: 100%;
+  max-width: 588px;
+  margin: auto;
+}
+
 header {
   padding: 80px 24px 0;
   text-align: center;
