@@ -64,9 +64,12 @@ body {
   align-items: center;
 
   position: absolute;
-  left: 0;
   top: 50%;
   transform: translateY(-50%);
+
+  animation-duration: 0.3s;
+  animation-name: slide-back;
+  animation-fill-mode: forwards;
 }
 
 .light #switch button {
@@ -174,5 +177,15 @@ footer a {
 
   to {
     left: 50%;
+  }
+}
+
+@keyframes slide-back {
+  from {
+    left: 50%;
+  }
+
+  to {
+    left: 0;
   }
 }
