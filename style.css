@@ -21,11 +21,11 @@ body {
 #app {
   width: 100%;
   max-width: 588px;
-  margin: auto;
+  margin: 56px auto 0;
 }
 
 header {
-  padding: 80px 24px 0;
+  padding: 24px 0;
   text-align: center;
 }
 
@@ -66,7 +66,7 @@ header p {
   justify-content: center;
   gap: 16px;
 
-  padding: 24px;
+  padding: 24px 0;
 }
 
 #links .link {
@@ -98,7 +98,7 @@ header p {
 }
 
 footer {
-  padding: 24px;
+  padding: 24px 0;
 
   text-align: center;
   line-height: 24px;
