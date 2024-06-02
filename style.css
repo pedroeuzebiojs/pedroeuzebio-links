@@ -44,3 +44,11 @@ header p {
   align-items: center;
   justify-content: center;
 }
+
+#biography small {
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+
+  color: hsl(215 20.2% 65.1%);
+}
