@@ -76,10 +76,17 @@ header p {
   justify-content: center;
   align-items: center;
 
-  background: hsl(222.2 47.4% 11.2%);
+  background: hsl(217.2 32.6% 17.5%);
   padding: 16px 24px;
-  border: 1px solid hsl(217.2 32.6% 17.5%);
+  border: 1px solid hsl(222.2 47.4% 11.2%);
   border-radius: 8px;
   backdrop-filter: blur(4px);
   -webkit-backdrop-filter: blur(4px);
+
+  transition: all 0.3s;
+}
+
+#links .link:hover {
+  background: hsl(222.2 47.4% 11.2%);
+  border: 1.5px solid hsl(210 40% 98%);
 }
