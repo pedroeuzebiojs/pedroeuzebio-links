@@ -26,9 +26,14 @@ body {
   padding: 0 2.4rem;
 }
 
+#switch {
+  position: relative;
+  width: 64px;
+}
+
 #switch button {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
 
   border: 1px solid hsl(222.2 47.4% 11.2%);
   border-radius: 50%;
@@ -40,6 +45,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
+
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 #switch span {
