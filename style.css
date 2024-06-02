@@ -28,14 +28,14 @@ body {
 
 #switch {
   position: absolute;
-  top: 24px;
-  right: 24px;
-  width: 64px;
+  top: 2.4rem;
+  right: 2.4rem;
+  width: 6.4rem;
 }
 
 #switch button {
-  width: 32px;
-  height: 32px;
+  width: 3.2rem;
+  height: 3.2rem;
 
   border: 1px solid hsl(222.2 47.4% 11.2%);
   border-radius: 50%;
@@ -56,11 +56,11 @@ body {
 
 #switch span {
   display: block;
-  width: 64px;
-  height: 24px;
+  width: 6.4rem;
+  height: 2.4rem;
   background-color: hsl(215 20.2% 65.1%);
   border: 1px solid hsl(210 40% 98%);
-  border-radius: 9999px;
+  border-radius: 999.9rem;
 }
 
 header {
