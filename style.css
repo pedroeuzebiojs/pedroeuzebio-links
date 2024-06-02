@@ -90,3 +90,17 @@ header p {
   background: hsl(222.2 47.4% 11.2%);
   border: 1.5px solid hsl(210 40% 98%);
 }
+
+footer {
+  padding: 24px;
+
+  text-align: center;
+
+  font-size: 14px;
+  line-height: 24px;
+}
+
+footer a {
+  font-size: 14px;
+  line-height: 24px;
+}
