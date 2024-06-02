@@ -70,8 +70,9 @@ body {
 }
 
 .light #switch button {
-  right: 0;
-  left: initial;
+  animation-duration: 0.3s;
+  animation-name: slide-in;
+  animation-fill-mode: forwards;
 }
 
 #switch span {
@@ -164,4 +165,14 @@ footer a {
   font-weight: 300;
 
   line-height: 2.4rem;
+}
+
+@keyframes slide-in {
+  from {
+    left: 0;
+  }
+
+  to {
+    left: 50%;
+  }
 }
