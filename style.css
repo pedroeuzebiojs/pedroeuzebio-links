@@ -8,6 +8,13 @@
 
 :root {
   font-size: 62.5%;
+  --background: hsl(222.2 84% 4.9%);
+  --foreground: hsl(210 40% 98%);
+}
+
+.light {
+  --background: hsl(0 0% 100%);
+  --foreground: hsl(222.2 84% 4.9%);
 }
 
 body * {
@@ -16,7 +23,7 @@ body * {
 }
 
 body {
-  background: hsl(222.2 84% 4.9%);
+  background: var(--background);
 }
 
 #app {
@@ -42,7 +49,7 @@ body {
 
   background-color: hsl(217.2 32.6% 17.5%);
 
-  color: hsl(210 40% 98%);
+  color: var(--foreground);
 
   display: flex;
   justify-content: center;
@@ -59,7 +66,7 @@ body {
   width: 6.4rem;
   height: 2.4rem;
   background-color: hsl(215 20.2% 65.1%);
-  border: 1px solid hsl(210 40% 98%);
+  border: 1px solid var(--foreground);
   border-radius: 999.9rem;
 }
 
@@ -92,7 +99,7 @@ header p {
   font-size: 1.4rem;
   line-height: 2.4rem;
 
-  color: hsl(210 40% 98%);
+  color: var(--foreground);
 }
 
 #links {
@@ -112,7 +119,7 @@ header p {
 
   font-weight: 500;
 
-  color: hsl(210 40% 98%);
+  color: var(--foreground);
 
   display: flex;
   justify-content: center;
@@ -130,7 +137,7 @@ header p {
 
 #links .link:hover {
   background: hsl(222.2 47.4% 11.2%);
-  border: 1.5px solid hsl(210 40% 98%);
+  border: 1.5px solid var(--foreground);
 }
 
 footer {
@@ -142,7 +149,7 @@ footer {
   font-size: 1.4rem;
   font-weight: 300;
 
-  color: hsl(210 40% 98%);
+  color: var(--foreground);
 }
 
 footer a {
@@ -151,5 +158,5 @@ footer a {
 
   line-height: 2.4rem;
 
-  color: hsl(210 40% 98%);
+  color: var(--foreground);
 }
