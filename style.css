@@ -27,7 +27,9 @@ body {
 }
 
 #switch {
-  position: relative;
+  position: absolute;
+  top: 24px;
+  right: 24px;
   width: 64px;
 }
 
