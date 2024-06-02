@@ -20,28 +20,28 @@ body {
 
 #app {
   width: 100%;
-  max-width: 588px;
-  margin: 56px auto 0;
-  padding: 0 24px;
+  max-width: 58.8rem;
+  margin: 5.6rem auto 0;
+  padding: 0 2.4rem;
 }
 
 header {
-  padding: 24px 0;
+  padding: 2.4rem 0;
   text-align: center;
 }
 
 header img {
-  width: 112px;
+  width: 11.2rem;
 }
 
 header p {
   font-family: "Inter", sans-serif;
   font-weight: 500;
-  line-height: 24px;
+  line-height: 2.4rem;
 
   color: hsl(217.2 91.2% 59.8%);
 
-  margin: 8px 0;
+  margin: 0.8rem 0;
 }
 
 #biography {
@@ -53,8 +53,8 @@ header p {
 
 #biography small {
   font-family: "Inter", sans-serif;
-  font-size: 14px;
-  line-height: 24px;
+  font-size: 1.4rem;
+  line-height: 2.4rem;
 
   color: hsl(210 40% 98%);
 }
@@ -65,14 +65,14 @@ header p {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  gap: 16px;
+  gap: 1.6rem;
 
-  padding: 24px 0;
+  padding: 2.4rem 0;
 }
 
 #links .link {
   text-decoration: none;
-  line-height: 24px;
+  line-height: 2.4rem;
 
   font-family: "Inter", sans-serif;
   font-weight: 500;
@@ -84,11 +84,11 @@ header p {
   align-items: center;
 
   background: hsl(217.2 32.6% 17.5%);
-  padding: 16px 24px;
+  padding: 1.6rem 2.4rem;
   border: 1px solid hsl(222.2 47.4% 11.2%);
-  border-radius: 8px;
-  backdrop-filter: blur(4px);
-  -webkit-backdrop-filter: blur(4px);
+  border-radius: 0.8rem;
+  backdrop-filter: blur(0.4rem);
+  -webkit-backdrop-filter: blur(0.4rem);
 
   transition: all 0.3s;
 }
@@ -99,13 +99,13 @@ header p {
 }
 
 footer {
-  padding: 24px 0;
+  padding: 2.4rem 0;
 
   text-align: center;
-  line-height: 24px;
+  line-height: 2.4rem;
 
   font-family: "Inter", sans-serif;
-  font-size: 14px;
+  font-size: 1.4rem;
   font-weight: 300;
 
   color: hsl(210 40% 98%);
@@ -113,10 +113,10 @@ footer {
 
 footer a {
   font-family: "Inter", sans-serif;
-  font-size: 14px;
+  font-size: 1.4rem;
   font-weight: 300;
 
-  line-height: 24px;
+  line-height: 2.4rem;
 
   color: hsl(210 40% 98%);
 }
