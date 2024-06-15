@@ -72,6 +72,10 @@ body {
   animation-fill-mode: forwards;
 }
 
+#switch button:hover {
+  outline: 8px solid rgba(255, 255, 255, 0.3);
+}
+
 .light #switch button {
   animation-duration: 0.3s;
   animation-name: slide-in;
