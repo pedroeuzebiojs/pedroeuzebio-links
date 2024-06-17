@@ -121,6 +121,14 @@ header p {
   line-height: 2.4rem;
 }
 
+#biography small a {
+  text-decoration: none;
+}
+
+#biography small a:hover {
+  text-decoration: underline;
+}
+
 #links {
   list-style: none;
 
