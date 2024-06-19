@@ -169,6 +169,9 @@ footer {
   padding: 2.4rem 0;
 
   text-align: center;
+}
+
+footer p {
   line-height: 2.4rem;
 
   font-size: 1.4rem;
@@ -180,6 +183,8 @@ footer a {
   font-weight: 300;
 
   line-height: 2.4rem;
+
+  text-decoration: none;
 }
 
 @keyframes slide-in {
