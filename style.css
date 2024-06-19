@@ -125,10 +125,6 @@ header p {
   text-decoration: none;
 }
 
-#biography small a:hover {
-  text-decoration: underline;
-}
-
 #links {
   list-style: none;
 
