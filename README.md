@@ -78,9 +78,9 @@ Siga o passo a passo para instalar o projeto:
 
 1. Abra o terminal e clone o repositório do projeto:
 
-```bash
-git clone https://github.com/pedroeuzebioo/pedroeuzebio-links
-```
+   ```bash
+   git clone https://github.com/pedroeuzebioo/pedroeuzebio-links
+   ```
 
 ## ⚙️ Executando
 
@@ -88,15 +88,15 @@ Siga o passo a passo para executar o projeto:
 
 1. Entre na pasta do projeto clonado:
 
-```bash
-cd pedroeuzebio-links
-```
+   ```bash
+   cd pedroeuzebio-links
+   ```
 
 2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o [VS Code](https://code.visualstudio.com/download/) digite o comando:
 
-```bash
-code .
-```
+   ```bash
+   code .
+   ```
 
 3. Abra o arquivo `index.html` com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do VS Code
 
