@@ -102,7 +102,7 @@ Siga o passo a passo para executar o projeto:
 
 ## 🌐 Deploy
 
-- [Exibir projeto](https://pedroeuzebio-links.netlify.app/)
+- [Exibir projeto](https://pedroeuzebio-links.vercel.app/)
 
 ## 🧑‍💻 Autor
 
