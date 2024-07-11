@@ -79,7 +79,7 @@ Siga o passo a passo para instalar o projeto:
 1. Abra o terminal e clone o repositório do projeto:
 
    ```bash
-   git clone https://github.com/pedroeuzebioo/pedroeuzebio-links
+   git clone https://github.com/pedroeuzebiooo/pedroeuzebio-links
    ```
 
 ## ⚙️ Executando
