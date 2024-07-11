@@ -8,6 +8,8 @@
 
 - [📃 Roteiro](#-roteiro)
 - [📱 Versão Mobile](#-versão-mobile)
+  - [🌙 Modo Escuro](#-modo-escuro)
+  - [☀️ Modo Claro](#️-modo-claro)
 - [🖥️ Versão Desktop](#️-versão-desktop)
 - [❓ Sobre](#-sobre)
 - [🛠️ Tecnologias](#️-tecnologias)
@@ -20,10 +22,17 @@
 
 ## 📱 Versão Mobile
 
+### 🌙 Modo Escuro
+
 <p align="center">
   <a href="https://pedroeuzebio-links.netlify.app/">
     <img src="./.github/preview-mobile.png" alt="Preview do projeto em mobile" width="390px" />
   </a>
+</p>
+
+### ☀️ Modo Claro
+
+<p align="center">
   <a href="https://pedroeuzebio-links.netlify.app/">
     <img src="./.github/preview-mobile-light.png" alt="Preview do projeto em mobile light mode" width="390px" />
   </a>
