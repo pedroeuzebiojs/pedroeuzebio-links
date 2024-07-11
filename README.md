@@ -25,7 +25,7 @@
 ### 🌙 Modo Escuro
 
 <p align="center">
-  <a href="https://pedroeuzebio-links.netlify.app/">
+  <a href="https://pedroeuzebio-links.vercel.app/">
     <img src="./.github/preview-mobile.png" alt="Preview do projeto em mobile" width="390px" />
   </a>
 </p>
@@ -33,7 +33,7 @@
 ### ☀️ Modo Claro
 
 <p align="center">
-  <a href="https://pedroeuzebio-links.netlify.app/">
+  <a href="https://pedroeuzebio-links.vercel.app/">
     <img src="./.github/preview-mobile-light.png" alt="Preview do projeto em mobile light mode" width="390px" />
   </a>
 </p>
@@ -41,13 +41,13 @@
 ## 🖥️ Versão Desktop
 
 <p align="center">
-  <a href="https://pedroeuzebio-links.netlify.app/">
+  <a href="https://pedroeuzebio-links.vercel.app/">
     <img src="./.github/preview-desktop.png" alt="Preview do projeto em desktop" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://pedroeuzebio-links.netlify.app/">
+  <a href="https://pedroeuzebio-links.vercel.app/">
     <img src="./.github/preview-desktop-light.png" alt="Preview do projeto em desktop light mode" />
   </a>
 </p>
