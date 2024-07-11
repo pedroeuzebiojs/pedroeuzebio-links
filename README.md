@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://pedroeuzebio-links.netlify.app">
+  <a href="https://pedroeuzebio-links.vercel.app">
     Pedro Henrique Links
   </a>
 </h1>
