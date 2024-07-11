@@ -109,15 +109,12 @@ Siga o passo a passo para executar o projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/pedroeuzebioo">
-        <img src="https://github.com/pedroeuzebioo.png" alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara." width="100"
+      <a href="https://github.com/pedroeuzebiooo">
+        <img src="https://github.com/pedroeuzebiooo.png" alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara." width="100"
         />
+        <br />
+        Pedro Euzebio
       </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/pedroeuzebioo">Pedro Euzebio</a>
     </td>
   </tr>
 </table>
