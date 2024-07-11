@@ -54,7 +54,7 @@
 
 ## ❓ Sobre
 
-Agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
+Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
 
 ## 🛠️ Tecnologias
 
