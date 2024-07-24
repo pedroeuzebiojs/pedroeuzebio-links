@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-# Roteiro
+## Roteiro
 
 - [Versão Mobile](#versão-mobile)
   - [Modo Escuro](#modo-escuro)
@@ -21,9 +21,9 @@
 - [Autor](#autor)
 - [Licença](#licença)
 
-# Versão Mobile
+## Versão Mobile
 
-## Modo Escuro
+### Modo Escuro
 
 <p align="center">
   <a href="https://pedroeuzebio-links.vercel.app">
@@ -31,7 +31,7 @@
   </a>
 </p>
 
-## Modo Claro
+### Modo Claro
 
 <p align="center">
   <a href="https://pedroeuzebio-links.vercel.app">
@@ -39,9 +39,9 @@
   </a>
 </p>
 
-# Versão Desktop
+## Versão Desktop
 
-## Modo Escuro
+### Modo Escuro
 
 <p align="center">
   <a href="https://pedroeuzebio-links.vercel.app">
@@ -49,7 +49,7 @@
   </a>
 </p>
 
-## Modo Claro
+### Modo Claro
 
 <p align="center">
   <a href="https://pedroeuzebio-links.vercel.app">
@@ -57,11 +57,11 @@
   </a>
 </p>
 
-# Sobre
+## Sobre
 
 Desenvolveu um agregador de links responsivo com troca de tema, utilizado como cartão de visitas digital.
 
-# Tecnologias
+## Tecnologias
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -69,7 +69,7 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
-# Pré-requisitos
+## Pré-requisitos
 
 Verifique aos seguintes pré-requisitos para poder instalar e executar o projeto:
 
@@ -77,7 +77,7 @@ Verifique aos seguintes pré-requisitos para poder instalar e executar o projeto
 2. Ter instalado o [Git](https://git-scm.com/downloads)
 3. Ter instalado a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-# Instalação
+## Instalação
 
 Siga o passo a passo para instalar o projeto:
 
@@ -87,7 +87,7 @@ Siga o passo a passo para instalar o projeto:
 git clone https://github.com/pedroeuzebiooo/pedroeuzebio-links
 ```
 
-# Executando
+## Executando
 
 Siga o passo a passo para executar o projeto:
 
@@ -105,11 +105,11 @@ code .
 
 3. Abra o arquivo `index.html` com a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) do VS Code
 
-# Deploy
+## Deploy
 
 - [Exibir projeto](https://pedroeuzebio-links.vercel.app)
 
-# Autor
+## Autor
 
 <table>
   <tr>
@@ -123,6 +123,6 @@ code .
   </tr>
 </table>
 
-# Licença
+## Licença
 
 O projeto está sob licença MIT. Veja o arquivo [LICENSE](./LICENSE) para mais detalhes.
