@@ -108,13 +108,6 @@ header h1 {
   margin: 1.6rem 0 0.8rem;
 }
 
-#biography {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-}
-
 #biography p {
   line-height: 2.4rem;
 }
