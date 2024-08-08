@@ -39,8 +39,8 @@ body {
 #app {
   width: 100%;
   max-width: 76.8rem;
-  margin: 5.6rem auto 0;
-  padding: 0 2.4rem;
+  margin: auto;
+  padding: 5.6rem 2.4rem 0;
 }
 
 #switch {
