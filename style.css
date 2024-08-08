@@ -115,8 +115,7 @@ header h1 {
   justify-content: center;
 }
 
-#biography small {
-  font-size: 1.4rem;
+#biography p {
   line-height: 2.4rem;
 }
 
