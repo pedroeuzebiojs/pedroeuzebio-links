@@ -47,7 +47,7 @@
   </li>
 </ul>
 
-![Visualização do projeto Pedro Euzebio Links](./.github/preview.png)
+![Visualização do projeto Pedro Euzebio Links](./assets/preview.png)
 
 ## Sobre
 
