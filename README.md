@@ -8,8 +8,8 @@
 
 <ul>
   <li>
-    <a href="#sobre">
-      Sobre
+    <a href="#sobre-o-projeto">
+      Sobre o projeto
     </a>
   </li>
   <li>
@@ -23,18 +23,18 @@
     </a>
   </li>
   <li>
-    <a href="#instalacao">
-      Instalação
+    <a href="#como-instalar-o-projeto">
+      Como instalar o projeto
     </a>
   </li>
   <li>
-    <a href="#executando">
-      Executando
+    <a href="#como-executar-o-projeto">
+      Como executar o projeto
     </a>
   </li>
   <li>
-    <a href="#deploy">
-      Deploy
+    <a href="#demonstração-da-aplicação">
+      Demonstração da Aplicação
     </a>
   </li>
   <li>
@@ -51,7 +51,7 @@
 
 ![Visualização do projeto Pedro Euzebio Links](./assets/preview.png)
 
-## Sobre
+## Sobre o projeto
 
 Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como cartão de visitas para minhas redes sociais.
 
@@ -59,9 +59,9 @@ Pedro Euzebio Links é um agregador de links responsivo e com troca de tema como
 
 O projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## Pré-requisitos
 
@@ -71,7 +71,7 @@ Verifique aos seguintes pré-requisitos para poder instalar e executar o projeto
 2. Ter instalado o [Git](https://git-scm.com/downloads)
 3. Ter instalado a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-## Instalação
+## Como instalar o projeto
 
 Siga o passo a passo para instalar o projeto:
 
@@ -81,7 +81,7 @@ Siga o passo a passo para instalar o projeto:
 git clone https://github.com/pedroeuzebiooo/pedroeuzebio-links
 ```
 
-## Executando
+## Como executar o projeto
 
 Siga o passo a passo para executar o projeto:
 
@@ -99,7 +99,7 @@ code .
 
 3. Abra o arquivo `index.html` com a extensão Live Server do VS Code
 
-## Deploy
+## Demonstração da Aplicação
 
 - [Exibir projeto](https://pedroeuzebio-links.vercel.app)
 
