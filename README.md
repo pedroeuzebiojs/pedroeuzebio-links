@@ -4,8 +4,6 @@
   </a>
 </h1>
 
-## Roteiro
-
 <ul>
   <li>
     <a href="#sobre-o-projeto">
