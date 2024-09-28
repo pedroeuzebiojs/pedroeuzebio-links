@@ -107,7 +107,7 @@ code .
   <tr>
     <td align="center">
       <img
-        src="https://github.com/pedroeuzebiooo.png"
+        src="https://github.com/pedroeuzebiojs.png"
         alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara."
         width="100"
       />
