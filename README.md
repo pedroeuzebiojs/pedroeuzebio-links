@@ -63,7 +63,10 @@ O projeto foi desenvolvido com as seguintes tecnologias:
 
 Verifique aos seguintes pré-requisitos para poder instalar e executar o projeto:
 
-1. Ter instalado um editor de código: [VS Code](https://code.visualstudio.com/download)
+1. Ter instalado um editor de código:
+   - [VS Code](https://code.visualstudio.com/download)
+   - [Sublime Text](https://www.sublimetext.com/download)
+   - [Notepad++](https://notepad-plus-plus.org/downloads)
 2. Ter instalado o [Git](https://git-scm.com/downloads)
 3. Ter instalado a extensão [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
@@ -74,7 +77,7 @@ Siga o passo a passo para instalar o projeto:
 1. Abra o terminal e clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/pedroeuzebiooo/pedroeuzebio-links
+git clone https://github.com/pedroeuzebiojs/pedroeuzebio-links
 ```
 
 ## Como executar o projeto
@@ -95,7 +98,7 @@ code .
 
 3. Abra o arquivo `index.html` com a extensão Live Server do VS Code
 
-## Demonstração da Aplicação
+## Demonstração da aplicação
 
 - [Exibir projeto](https://pedroeuzebio-links.vercel.app)
 
@@ -104,11 +107,13 @@ code .
 <table>
   <tr>
     <td align="center">
-      <img
-        src="https://github.com/pedroeuzebiojs.png"
-        alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara."
-        width="100"
-      />
+      <a href="https://github.com/pedroeuzebiojs">
+        <img
+          src="https://github.com/pedroeuzebiojs.png"
+          alt="Foto do Pedro Euzebio sorrindo com uma camisa social azul clara."
+          width="100"
+        />
+      </a>
       <br />
       Pedro Euzebio
     </td>
