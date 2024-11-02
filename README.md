@@ -1,7 +1,5 @@
 <h1 align="center">
-  <a href="https://pedroeuzebio-links.vercel.app">
-    Pedro Henrique Links
-  </a>
+  Pedro Henrique Links
 </h1>
 
 <ul>
