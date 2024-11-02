@@ -45,7 +45,17 @@
   </li>
 </ul>
 
-![Visualização do projeto Pedro Euzebio Links](./.github/preview.png)
+<p align="center">
+  <img src="./.github/preview-mobile.png" alt="Visualização do projeto Pedro Euzebio Links em Mobile" align="center" width="400" />
+</p>
+
+<br />
+
+<br />
+
+<p align="center">
+  <img src="./.github/preview-desktop.png" alt="Visualização do projeto Pedro Euzebio Links em Desktop" align="center" width="1900" />
+</p>
 
 ## Sobre o projeto
 
