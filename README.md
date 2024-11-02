@@ -30,7 +30,7 @@
   </li>
   <li>
     <a href="#demonstração-da-aplicação">
-      Demonstração da Aplicação
+      Demonstração da aplicação
     </a>
   </li>
   <li>
@@ -39,7 +39,7 @@
     </a>
   </li>
   <li>
-    <a href="#Licença">
+    <a href="#licença">
       Licença
     </a>
   </li>
