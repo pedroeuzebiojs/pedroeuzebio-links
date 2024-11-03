@@ -25,15 +25,15 @@
   --muted-foreground: hsl(215.4 16.3% 46.9%);
 }
 
+body {
+  background: var(--background);
+}
+
 body * {
   font-family: "Inter", sans-serif;
   font-size: 1.6rem;
 
   color: var(--foreground);
-}
-
-body {
-  background: var(--background);
 }
 
 #app {
@@ -50,7 +50,7 @@ body {
   width: 6.4rem;
 }
 
-#switch button {
+#switch #switch-button {
   width: 3.2rem;
   height: 3.2rem;
 
@@ -72,21 +72,23 @@ body {
   animation-fill-mode: forwards;
 }
 
-#switch button:hover {
-  outline: 8px solid rgba(255, 255, 255, 0.3);
+#switch #switch-button:hover {
+  outline: 0.8rem solid rgba(255, 255, 255, 0.3);
 }
 
-.light #switch button {
+.light #switch #switch-button {
   animation-duration: 0.3s;
   animation-name: slide-in;
   animation-fill-mode: forwards;
 }
 
-#switch span {
+#switch #switch-track {
   display: block;
   width: 6.4rem;
   height: 2.4rem;
+
   background-color: var(--muted-foreground);
+
   border: 1px solid var(--foreground);
   border-radius: 999.9rem;
 }
