@@ -16,6 +16,20 @@
   --muted-foreground: hsl(215 20.2% 65.1%);
 }
 
+::-webkit-scrollbar {
+  width: 0.8rem;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--primary);
+
+  border-radius: 999.9rem;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
 .light {
   --background: hsl(0 0% 100%);
   --foreground: hsl(222.2 84% 4.9%);
@@ -86,7 +100,7 @@ body * {
   background-color: var(--muted-foreground);
 
   border: 1px solid var(--foreground);
-  border-radius: 999.9rem;
+  border-radius: 999.9px;
 }
 
 header {
