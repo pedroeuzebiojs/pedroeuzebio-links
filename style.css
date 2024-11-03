@@ -67,9 +67,7 @@ body * {
   top: 50%;
   transform: translateY(-50%);
 
-  animation-duration: 0.3s;
-  animation-name: slide-back;
-  animation-fill-mode: forwards;
+  animation: 0.3s slide-back forwards;
 }
 
 #switch #switch-button:hover {
@@ -77,9 +75,7 @@ body * {
 }
 
 .light #switch #switch-button {
-  animation-duration: 0.3s;
-  animation-name: slide-in;
-  animation-fill-mode: forwards;
+  animation: 0.3s slide-in forwards;
 }
 
 #switch #switch-track {
